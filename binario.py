@@ -4,6 +4,7 @@
 #Colaborador 1: Villacres Nicolas Alessandro(villacresnicolas7-alt)
 #Colaborador 2: Yumbillo Ariel xd(xxxxxxxxxxxxxxx)¡28
 #??????????
+#Los ceros a la izquierda no afectan ya que funciona similar que en el sistema decimal ejemplo: 00015=15.
 print("Si desea comprobar la conversión lo puede realizar en: https://masterplc.com/calculadora/convertir-binario-a-decimal")
 decimal = int(input("Ingrese un número en decimal: "))
 if decimal == 0:
@@ -15,6 +16,6 @@ else:
         binario = str(residuo) + binario
         decimal = decimal // 2
     print("El número en binario es:", binario)
-print("Si el número en binario no completa los 8 digitos complete con ceros a la izuierda ejemplo: 00001010")
-print("Explicación: Los ceros a la izquierda no influyen ya que no aportan ningún valor al número como 00005=5 y aplica en binario")
+print("Complete con ceros a la izquierda para completar el octeto (00001011)")
+
 
