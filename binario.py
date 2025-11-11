@@ -14,6 +14,6 @@ print("Si el número en binario no completa los 8 digitos complete con ceros a l
 print("Explicación: Los ceros a la izquierda no influyen ya que no aportan ningún valor al número como 00005=5 y aplica en binario")
 #Colaboradores: 
 #Creador del repositorio: Andrés Pesantez(zlkd4rk)
-#Colaborador 1: Villacres Nicolas(villacresnicolas7-alt)
-#Colaborador 2: Yumbillo Ariel(xxxxxxxxxxxxxxx)
+#Colaborador 1: Villacres Nicolas Alessandro(villacresnicolas7-alt)
+#Colaborador 2: Yumbillo Ariel(xxxxxxxxxxxxxxx)¡28
 #??????????
