@@ -15,5 +15,5 @@ print("Explicación: Los ceros a la izquierda no influyen ya que no aportan ning
 #Colaboradores: 
 #Creador del repositorio: Andrés Pesantez(zlkd4rk)
 #Colaborador 1: Villacres Nicolas Alessandro(villacresnicolas7-alt)
-#Colaborador 2: Yumbillo Ariel(xxxxxxxxxxxxxxx)¡28
+#Colaborador 2: Yumbillo Ariel xd(xxxxxxxxxxxxxxx)¡28
 #??????????
