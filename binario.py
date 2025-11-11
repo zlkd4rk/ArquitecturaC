@@ -16,3 +16,4 @@ else:
         decimal = decimal // 2
     print("El número en binario es:", binario)
 print("Complete con ceros a la izquierda para completar el octeto ejem(00001011)")
+#Prueba para comptura de pantalla 
